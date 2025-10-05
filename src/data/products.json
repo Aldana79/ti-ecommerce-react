@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "name": "Pc 100",
+    "category": "pc",
+    "price": 1400000.00,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=800",
+    "description": "Producto pc modelo 100 con excelentes prestaciones para trabajo y entretenimiento."
+  },
+  {
+    "id": 2,
+    "name": "Pc 200",
+    "category": "pc",
+    "price": 980000.00,
+    "image": "https://i5.walmartimages.com.mx/mg/gm/3pp/asr/16912bf1-6810-44bd-98c3-5f5b396b7595.68bd0272617b7ca215dffc96cd01f1d6.png?odnHeight=2000&odnWidth=2000&odnBg=ffffff",
+    "description": "Producto pc modelo 200 con excelentes prestaciones para trabajo y entretenimiento."
+  },
+  {
+    "id": 3,
+    "name": "Pc 300",
+    "category": "pc",
+    "price": 870000.00,
+    "image": "https://www.comparor.com/img/376/2e2917df21197a68109248376.jpg",
+    "description": "Producto pc modelo 300 con excelentes prestaciones para trabajo y entretenimiento."
+  },
+  {
+    "id": 4,
+    "name": "Pc 400",
+    "category": "pc",
+    "price": 790000.00,
+    "image": "https://www.comparor.com/img/15/925af08fbbe3b51191812015.jpg",
+    "description": "Producto pc modelo 400 con excelentes prestaciones para trabajo y entretenimiento."
+  },
+  {
+    "id": 5,
+    "name": "Tablet 100",
+    "category": "tablet",
+    "price": 570000.00,
+    "image": "https://www.comparor.com/img/48/58d83b8182b3892366703048.jpg",
+    "description": "Producto tablet modelo 100 con excelentes prestaciones para trabajo y entretenimiento."
+  },
+  {
+    "id": 6,
+    "name": "Tablet 200",
+    "category": "tablet",
+    "price": 469000.00,
+    "image": "https://images.news18.com/ibnlive/uploads/2022/09/lenovo-m10-plus-166445365516x9.jpg",
+    "description": "Producto tablet modelo 200 con excelentes prestaciones para trabajo y entretenimiento."
+  },
+  {
+    "id": 7,
+    "name": "Tablet 300",
+    "category": "tablet",
+    "price": 360000.00,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_973297-MLA88058580900_072025-O.webp",
+    "description": "Producto tablet modelo 300 con excelentes prestaciones para trabajo y entretenimiento."
+  },
+  {
+    "id": 8,
+    "name": "Tablet 400",
+    "category": "tablet",
+    "price": 275000.99,
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=800",
+    "description": "Producto tablet modelo 400 con excelentes prestaciones para trabajo y entretenimiento."
+  },
+  {
+    "id": 9,
+    "name": "Router 100",
+    "category": "router",
+    "price": 110000.00,
+    "image": "https://d2eebw31vcx88p.cloudfront.net/ofit/uploads/4e8b24117a46bb0a4e33fe5819fd98c2660ac5b7.jpg.webp",
+    "description": "Producto router modelo 100 con excelentes prestaciones para trabajo y entretenimiento."
+  },
+  {
+    "id": 10,
+    "name": "Router 200",
+    "category": "router",
+    "price": 105820.00,
+    "image": "https://static.tp-link.com/1_large_1565685514126h.jpg",
+    "description": "Producto router modelo 200 con excelentes prestaciones para trabajo y entretenimiento."
+  },
+  {
+    "id": 11,
+    "name": "Router 300",
+    "category": "router",
+    "price": 89000.00,
+    "image": "https://preview.redd.it/u1t72j7e4qd31.jpg?width=1200&format=pjpg&auto=webp&s=f94b477b35b4d861e81f3891a1bd1a1612737279",
+    "description": "Producto router modelo 300 con excelentes prestaciones para trabajo y entretenimiento."
+  },
+  {
+    "id": 12,
+    "name": "Router 400",
+    "category": "router",
+    "price": 65000.99,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_638690-MLU77844354899_072024-O.webp",
+    "description": "Producto router modelo 400 con excelentes prestaciones para trabajo y entretenimiento."
+  },
+  {
+    "id": 13,
+    "name": "Accesorios 100",
+    "category": "accesorios",
+    "price": 78199.00,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_646241-MLA82105229115_012025-F.webp",
+    "description": "Producto accesorios modelo 100 con excelentes prestaciones para trabajo y entretenimiento."
+  },
+  {
+    "id": 14,
+    "name": "Accesorios 200",
+    "category": "accesorios",
+    "price": 62485.00,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_864807-MLA77594879101_072024-F.webp",
+    "description": "Producto accesorios modelo 200 con excelentes prestaciones para trabajo y entretenimiento."
+  },
+  {
+    "id": 15,
+    "name": "Accesorios 300",
+    "category": "accesorios",
+    "price": 39000.00,
+    "image": "https://images.bidcom.com.ar/resize?src=https://static.bidcom.com.ar/publicacionesML/productos/ABLUE163/1000x1000-ABLUE163.jpg&w=500&q=100",
+    "description": "Producto accesorios modelo 300 con excelentes prestaciones para trabajo y entretenimiento."
+  },
+  {
+    "id": 16,
+    "name": "Accesorios 400",
+    "category": "accesorios",
+    "price": 10800.00,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_911683-MLA91039459023_082025-F.webp",
+    "description": "Producto accesorios modelo 400 con excelentes prestaciones para trabajo y entretenimiento."
+  },
+  {
+    "id": 17,
+    "name": "Monitor 100",
+    "category": "monitor",
+    "price": 650000.00,
+    "image": "https://lgear.vtexassets.com/arquivos/ids/158084-1200-auto?v=638853400055870000&width=1200&height=auto&aspect=true",
+    "description": "Producto monitor modelo 100 con excelentes prestaciones para trabajo y entretenimiento."
+  },
+  {
+    "id": 18,
+    "name": "Monitor 200",
+    "category": "monitor",
+    "price": 359999.00,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_774337-MLA79436259346_102024-F.webp",
+    "description": "Producto monitor modelo 200 con excelentes prestaciones para trabajo y entretenimiento."
+  },
+  {
+    "id": 19,
+    "name": "Monitor 300",
+    "category": "monitor",
+    "price": 349000.00,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrPgFfKBzu5ZUr59l4Pj-CpHHeqjQxasDlqA&s",
+    "description": "Producto monitor modelo 300 con excelentes prestaciones para trabajo y entretenimiento."
+  },
+  {
+    "id": 20,
+    "name": "Monitor 400",
+    "category": "monitor",
+    "price": 310000.00,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_795508-MLU72628800344_112023-F.webp",
+    "description": "Producto monitor modelo 400 con excelentes prestaciones para trabajo y entretenimiento."
+  },
+  {
+    "id": 21,
+    "name": "Impresora 100",
+    "category": "impresora",
+    "price": 485000.00,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_805579-MLA84543637140_052025-F.webp",
+    "description": "Producto impresora modelo 100 con excelentes prestaciones para trabajo y entretenimiento."
+  },
+  {
+    "id": 22,
+    "name": "Impresora 200",
+    "category": "impresora",
+    "price": 324999.99,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_980498-MLA87640334783_072025-F.webp",
+    "description": "Producto impresora modelo 200 con excelentes prestaciones para trabajo y entretenimiento."
+  },
+  {
+    "id": 23,
+    "name": "Impresora 300",
+    "category": "impresora",
+    "price": 320000.00,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_835224-MLA92008992197_092025-F.webp",
+    "description": "Producto impresora modelo 300 con excelentes prestaciones para trabajo y entretenimiento."
+  },
+  {
+    "id": 24,
+    "name": "Impresora 400",
+    "category": "impresora",
+    "price": 220000.00,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_728758-MLA93093238432_092025-F.webp",
+    "description": "Producto impresora modelo 400 con excelentes prestaciones para trabajo y entretenimiento."
+  }
+]
